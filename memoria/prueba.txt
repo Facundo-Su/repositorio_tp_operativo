@@ -1,0 +1,3 @@
+SUM BX 1
+SUB BX CX
+SET AX 1
